@@ -6,7 +6,7 @@ Have you noticed how crappy Google's search results have become? I find myself a
 
 This extension compresses the search loop to a button push. Notice the "-w3" button:
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot-1.png)
 
 And the "reddit" button:
 
