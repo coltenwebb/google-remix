@@ -1,0 +1,14 @@
+{
+  "name": "Remix",
+  "version": "1.0",
+  "description": "Build an Extension!",
+  "manifest_version": 3,
+  "permissions": ["webRequest", "webRequestBlocking",
+                  "*://*.google.com/"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.google.com/*"],
+      "js": ["remixer.js", "contentScript.js"]
+    }
+  ]
+}
