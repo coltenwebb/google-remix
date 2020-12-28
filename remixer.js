@@ -28,6 +28,9 @@ function remix(query) {
     }
   }
   const uniq = [...new Set(resLs)];
-  if (uniq.length == 0) return '';
+  if (uniq.length == 0) {
+    if (spl.includes('reddit')) return '';
+    return ' reddit';
+  }
   return ' ' + uniq.join(' ')
 }
