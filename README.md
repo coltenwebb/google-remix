@@ -1,5 +1,4 @@
 # Google Remix
-## Make Google Great Again
 
 Chrome extension that adds keywords to your query with the push of a button, after you've gotten your results.
 
