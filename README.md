@@ -5,4 +5,4 @@ Have you noticed how crappy Google's search results have become? I find myself a
 
 This extension reduces this multi-search feedback loop to a button push.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
