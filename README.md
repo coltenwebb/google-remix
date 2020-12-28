@@ -13,3 +13,7 @@ And the "reddit" button:
 ![Screenshot 2](screenshot-2.png)
 
 The keywords appended depend on your search.
+
+## Credits
+
+Add Text (logo) by Filippo Gianessi from the Noun Project
